@@ -8,7 +8,10 @@ Download from release and run it.
 
 ## Build
 
-First install *go-bindata*
+First build the webui GUI:
+[webui](https://github.com/lluz55/LocalNetTools/blob/master/webui/README.md)
+
+After GUI was built install *go-bindata*
 ```bash
 go get -u github.com/shuLhan/go-bindata
 ```
