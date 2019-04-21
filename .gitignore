@@ -1,0 +1,7 @@
+*.exe
+*.bat
+*.py
+temp/
+.vs/
+*.ico
+LocalNetTools

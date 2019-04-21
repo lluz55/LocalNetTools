@@ -1,0 +1,17 @@
+// +build ignore
+package main
+
+// Add key to windowsRegistry
+func _addToStartup() {
+
+}
+
+// Remove key from windowsRegistry
+func _removeFromStartup() {
+
+}
+
+func _startedWithOS() {
+
+}
+

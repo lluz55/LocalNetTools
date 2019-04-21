@@ -1,0 +1,38 @@
+TODO:
+    
+    Core:
+        ✔ ShutDown PC from any other address inside network @done(19-04-03 14:55)
+            ✔ Add time to delay shutdown @done(19-04-03 14:56)
+        ✔ Cancel shutdown @done(19-04-03 14:55)
+            ✔ Send correct message when there is not scheduled shutdown @done(19-04-04 22:25)
+        ✔ Make possible start with windows @done(19-04-03 15:21)
+            ✔ Check time elapsed since O.S. started @done(19-04-03 16:35)       
+        ☐ Add log system
+        ✔ Add exit function @done(19-04-03 17:24)
+        ✔ Custom port @done(19-04-03 17:45)
+        ✔ Receive time remaining for shutdown @done(19-04-04 22:26)
+        ☐ Make as a service (?)
+        ✘ Implement visual response with basic cmd and make possible to run quiet @cancelled(19-04-05 11:01)
+        ✔ System icon for open UI in default browser @done(19-04-05 11:44)
+            ☐ Open default browser to show UI
+            ✔ Toggle start with O.S. @done(19-04-05 13:04)
+            ✔ Quit program @done(19-04-05 13:04)
+        ✔ Make work with linux @done(19-04-13 21:40)
+
+    Fixes/Refactor:
+        ✔ Refactor API response with json @done(19-04-03 17:12)
+        ✔ Refactor system args @done(19-04-03 20:53)
+        ✔ ToFix: Not starting with windows @done(19-04-04 21:40)
+        ✔ Refactor time scheduled making possible to know if has shutdown schueduled or not @done(19-04-04 22:27)
+        ✔ Refactor functions name for internal convention @done(19-04-04 22:28)
+        ✔ Fix system tray option not showing checked when starts with O.S. @done(19-04-05 19:34)
+        ☐ Fix not showing `Run at startup when program starts`
+        ✔ Refactor windows and linux handlers @done(19-04-13 21:40)
+
+    GUI:
+        ☐ Create web UI
+            ☐ Make possible to run in the default browser with command line
+
+        
+        
+
