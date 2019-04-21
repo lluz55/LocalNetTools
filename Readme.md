@@ -1,6 +1,6 @@
 # LocalNetTools
 
-LocalNetTools software was made just to play around with GO.I wanted my PC to be able to shut down from any other device. So, I made this.
+LocalNetTools was made just to play around with GO.I wanted my PC to be able to shut down from any other device. So, I made this.
 
 ## Run
 
