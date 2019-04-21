@@ -23,12 +23,12 @@ go build -ldflags="-s -w -H windowsgui"
 ## Usage
 
 ```bash
-./LocalNetTools.exe
+.\LocalNetTools.exe
 ```
 You can pass **-s** flag to start it with Windows:
 
 ```bash
-./LocalNetTools.exe -s
+.\LocalNetTools.exe -s
 ```
 To see the gui in your default web browser click in the system tray icon and then click _Open Ui_ menu
 
