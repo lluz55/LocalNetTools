@@ -14,5 +14,6 @@ require (
 	github.com/gorilla/mux v1.7.1
 	github.com/oxtoacart/bpool v0.0.0-20190227141107-8c4636f812cc // indirect
 	github.com/pkg/browser v0.0.0-20180916011732-0a3d74bf9ce4
-	golang.org/x/sys v0.0.0-20190419153524-e8e3143a4f4a
+	github.com/stretchr/testify v1.8.1 // indirect
+	golang.org/x/sys v0.1.0
 )
